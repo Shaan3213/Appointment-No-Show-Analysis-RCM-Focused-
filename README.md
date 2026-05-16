@@ -177,6 +177,15 @@ Based on the analysis, the following recommendations were proposed:
 
 ---
 
+Project Screenshots
+
+<img width="1081" height="604" alt="image" src="https://github.com/user-attachments/assets/99603d73-3366-4795-814a-2e3a20c0768c" />
+<img width="1085" height="606" alt="image" src="https://github.com/user-attachments/assets/156f398b-0c15-4f3e-be58-b00cd107b1c8" />
+<img width="1074" height="603" alt="image" src="https://github.com/user-attachments/assets/456ff820-34f6-4456-afa1-5c01d671b643" />
+
+
+----
+
 **Future Improvements**
 
 Future enhancements could include:
